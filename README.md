@@ -16,7 +16,9 @@ along with this the the pedestrian crossing is also indicated at each of the 4 c
 
 ![image](https://github.com/NakulSK221B/Traffic-Light-PLC/assets/95758559/aebda89e-2966-44bc-8244-04b7df1a313c)
 
+## Conclusion:
 
+This project works as a excellent medium to not only understand the logic behind traffic management systems but also helps in deepening our understanding of PLC programming practices and displays the potential that it holds in the implementation of complex automation systems.
 
 
 
